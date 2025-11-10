@@ -1,0 +1,501 @@
+path,mean_r,mean_g,mean_b,label,movie
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-32.png,130.12613686266675,92.50172591407237,71.80128085716659,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-23.png,23.71491297746022,31.765893666621103,36.483367630053536,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-22.png,154.99854548781386,76.00596866941329,30.512795690686882,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-21.png,36.8873626526365,28.323365684517576,28.09684006086001,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-20.png,33.89178193380594,38.16479826683022,44.457903545495896,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-19.png,26.322787199071254,35.791105938046535,42.98554775084476,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-18.png,80.26495878808264,63.78326700741076,54.9026855965639,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-17.png,76.8351768193401,77.08955745188717,80.78796690642884,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-16.png,58.36759744854186,49.53754974683408,59.90940243941745,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-15.png,22.27687261511161,29.765877399126527,29.61869475227136,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-14.png,117.82845239873484,126.2623952296111,107.36209346705104,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-13.png,18.29470252544386,31.9653185481654,37.18223964715638,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-12.png,61.114611232020984,89.56375315365645,89.78600695186127,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-11.png,53.34148628523543,62.90055395310556,62.53687220017297,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-10.png,74.94697039857438,62.56573310469169,51.557799856899805,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-9.png,132.2601166469537,110.18396470965816,90.11705243502013,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-8.png,62.53024850771542,54.2427455798389,46.26103939989348,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-7.png,75.60428091219563,80.76039958463973,78.71208690178625,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-6.png,46.56847051642889,52.91999679229795,54.92567227160623,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-5.png,70.99884421945416,58.20902599255222,58.10284953119002,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-4.png,15.326344919388033,35.602490455373946,48.21069074269318,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-3.png,118.269250037219,104.14182186988239,96.88215051362215,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-24.png,93.95638366380341,78.45173784274245,81.07499714365841,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-25.png,135.93360603238537,161.7451152397065,144.4929549845246,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-27.png,60.70643713237331,55.6537123485379,57.47226648628004,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-28.png,108.52883865125223,63.56539570717356,55.76019199410396,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-31.png,107.27392125181093,76.4382244189922,68.12353587675156,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-30.png,89.96374223527228,72.1463742980895,69.39052097399194,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-26.png,86.92890770786609,91.48266865200874,91.21938276534122,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-50.png,113.98973607472537,101.44740085488887,101.45430099761724,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-49.png,68.60489805726166,89.789691214787,93.8100308833719,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-48.png,66.57507093338539,95.97103362523706,97.67976812596174,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-47.png,20.813759143675334,24.92299270757879,29.231975934634686,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-46.png,75.2983658362584,73.61376498376852,72.34433441942862,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-45.png,28.80048903356296,59.45673832819051,76.01029242475317,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-44.png,79.05805792204022,87.59488802186881,81.84710064944828,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-2.png,50.376143670657065,62.44174294236714,69.55240106223822,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-43.png,53.46404199045955,61.57246482897716,59.58010692317925,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-41.png,51.226728999697684,73.69908339509774,68.38351576500487,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-40.png,54.53711955935693,90.01119219068961,111.35127979245419,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-39.png,123.96321845834144,131.92601743596876,126.5172487271475,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-38.png,40.93849929274578,31.639050730891544,41.426325975725376,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-37.png,62.02318935464861,96.17975809262366,119.60478181741165,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-36.png,37.949730574099,66.36079959038048,87.4653257671634,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-35.png,58.609910368702934,59.68456210701027,53.59476640015628,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-34.png,109.79883682706841,73.48053250589628,59.213578833192855,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-33.png,132.46607853233007,83.87187527357817,51.50637409320428,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-29.png,82.59367019863815,108.72711959094221,122.16618232510658,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-42.png,75.1000163999109,87.07816175220962,87.82413680128849,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/1Castle in the Sky/1-1.png,26.649144755762876,62.145364024080756,85.04731320956066,Miyazaki,1Castle in the Sky
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-1.png,62.22751441754198,77.92238460183384,78.9755005880898,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-25.png,54.76656281135122,49.8362260366922,40.719961048888585,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-28.png,33.912514884640046,71.14220201074889,91.80101055788731,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-29.png,41.92629075302469,91.53118418944132,115.45197861160175,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-30.png,78.47901115077585,127.03129060556995,129.3259634390424,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-31.png,59.447083824997165,91.89182898235269,82.13114837392958,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-32.png,89.12424718554767,106.57037639205295,97.33962325450047,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-33.png,61.4320668198132,67.14484945434874,50.589959589956386,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-34.png,111.50120199635609,98.98906789453909,91.18223519570103,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-35.png,83.22687990816279,78.07657310419911,64.87265178876449,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-36.png,88.69068839053743,81.12277530299446,79.26205391573902,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-37.png,21.78613779813489,30.602328043765965,30.781841015465343,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-38.png,67.45852071837705,70.22385918585596,75.58481963170098,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-39.png,55.97155068871455,66.27800544138765,76.33179973273498,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-40.png,83.91277277731471,80.13078553892633,84.66685714732749,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-41.png,33.455345779365786,43.507219294327825,48.23645341670389,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-43.png,76.22547262213182,70.12360561793407,81.35745419934932,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-44.png,75.5942029397792,74.16633442192972,68.24724271242565,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-45.png,56.62541722346879,56.02045556051809,54.481628288098165,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-46.png,124.69016129181617,104.32533783807848,87.14732845960367,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-47.png,30.91018093617368,42.471130991438976,57.80257005962072,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-48.png,25.688936574927606,44.92095962220738,51.34451617846813,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-49.png,27.698894106468277,48.92573128655543,68.21566329590081,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-27.png,40.69723182535151,62.44630853511683,71.80476103990819,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-26.png,27.66646029456194,44.56297790696892,58.912067065739315,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-42.png,63.88817836955192,68.68442249867007,93.65386973256373,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-24.png,46.23881100568406,47.15743439192371,43.81877615370856,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-2.png,70.06951878118619,96.97961193200352,101.53982984535983,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-3.png,77.71935994530327,91.2574965734088,77.65435608871196,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-4.png,68.05292842370791,108.92796184996772,70.36276072039921,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-5.png,66.4335379963943,68.05964897456634,66.98890317688101,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-6.png,101.39219955946403,96.15910828833111,83.74387250170805,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-7.png,75.11247197064228,112.29002907509052,93.49830575349608,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-8.png,102.56317005332802,99.13792748230509,90.25701888491292,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-9.png,43.705105615946216,43.50158205943533,32.5798725597832,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-10.png,87.33192920520136,109.25893433715575,96.83419790454678,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-11.png,106.14762480968369,100.65213603745396,86.1890406345827,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-50.png,21.692762280135298,40.98171172298825,66.31677514700318,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-12.png,107.5950630022566,117.29733661215816,101.41000588753006,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-14.png,117.2787919827998,107.70384420731945,83.95736434933892,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-15.png,75.56289178047594,81.58632191173889,72.97798216912787,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-16.png,39.70702412998081,73.990441522625,61.68051722215871,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-17.png,73.77222579572077,85.79740186472516,65.90438849366707,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-18.png,23.084189903223503,43.02498949162937,40.28255418606229,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-19.png,56.3418592241404,65.04390780721938,56.60276138432742,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-20.png,112.00534460049556,102.71495961857403,90.71375379420408,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-21.png,59.138039406629986,59.40193807305522,54.38304460540794,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-22.png,53.70042198150376,57.84869427212109,53.3370627124065,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-23.png,27.82389071832424,32.561433603942966,36.27614317370094,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/2My Neighbor Totoro/2-13.png,75.03704485319108,89.28809745386475,93.93709948059481,Miyazaki,2My Neighbor Totoro
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-2.png,67.04539343913552,82.62881392617905,85.3407474317036,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-1.png,72.91142511537889,98.49488350454072,43.80403193389906,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-3.png,39.644260456040115,29.02172327950817,25.3756291009589,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-25.png,64.73299098033911,60.312850097943105,49.922194073747356,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-24.png,56.84082775048385,51.355621929432786,43.83429172249516,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-23.png,94.47765990631544,87.88653873692725,61.83108027351245,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-22.png,96.25980661531315,109.02348189367272,74.38685847560434,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-21.png,73.40391036001789,80.45359855857252,40.92237650774186,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-20.png,103.41895044666524,108.23322144022977,72.13147153846555,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-19.png,57.15401012307654,68.80478973535638,56.81574389308006,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-18.png,38.76302375710006,123.16195543197729,158.19725993560647,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-17.png,28.657961646662855,39.14907643452203,52.6086327443163,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-16.png,27.697292761823963,44.857793657882986,63.11730991682255,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-15.png,84.27341392038979,69.72812782290698,62.91305642399881,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-14.png,43.13416338225346,38.414388285735924,40.106972060193655,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-13.png,18.261259088207904,33.53248603262397,57.61363065284481,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-12.png,99.92135958169698,82.27009891002663,76.79259327688959,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-11.png,16.42712880854722,21.518848594613175,26.232936612382854,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-10.png,58.55842639938786,68.70143310771753,74.84766459613955,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-9.png,53.65521399127106,60.5729367237424,58.62353647597907,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-8.png,35.32806610093792,45.63639608456156,42.3780891767158,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-7.png,61.58448576544521,85.91222113967466,65.19684007943835,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-6.png,37.60891032044166,30.732670371887274,30.621428875887464,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-5.png,38.48722081561939,41.6692822401875,45.46568619599257,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-26.png,74.3907987178009,101.8634120659696,111.62806972769127,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-4.png,38.91233336519106,61.50626115872622,64.8476046647148,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-27.png,87.26254887083385,120.12631359525103,91.48018227771341,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-29.png,89.36715984475674,99.10373055408314,85.5582264660777,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-49.png,66.04268662522188,123.5972107507552,89.84331465627683,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-48.png,87.73191221953981,104.35384183857249,105.10434033720969,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-47.png,56.987282483415626,62.987873509887564,63.25862669178529,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-46.png,43.5861477481078,38.12048814422728,44.81618165156905,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-45.png,55.91632361811893,55.16735313657346,57.95212207930293,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-44.png,46.96353929003662,76.80670768889215,103.35123210089098,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-43.png,33.27771677220444,32.09482206334655,32.56435752176332,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-42.png,34.57656503242057,34.71731616454236,43.43666580867412,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-41.png,51.640981209563954,54.992754039224224,52.81979195637213,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-40.png,53.378195786537106,48.48068984326405,50.48312883321604,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-50.png,48.744656202634246,54.971729828452396,52.37471936752415,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-39.png,68.57221520401899,79.55019730096886,81.85945201984798,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-38.png,66.53423543460264,68.33053683185672,74.47066289680278,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-37.png,30.855494596253216,38.36349307463277,48.56884072012832,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-36.png,39.48592649017811,44.687113056036885,49.81239954968357,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-35.png,21.933977659662045,36.31855115231131,49.252465114407904,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-34.png,45.38036167203834,34.39312178080451,37.53657704629548,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-33.png,35.94448972755694,38.09669979157362,34.26570120589549,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-32.png,57.768664582402856,58.03237271103171,54.5092489206491,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-31.png,92.12132734250399,91.16190524478418,94.85231079639208,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-30.png,77.21011228070957,64.9003845158579,51.58378135352404,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/3Princess Mononoke/3-28.png,89.57717939904306,82.57037410124512,77.98999113454686,Miyazaki,3Princess Mononoke
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-2.png,139.58033378390942,128.6351148969039,95.48491607126255,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-3.png,139.7687456006318,100.92973922834366,71.23538909013912,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-49.png,97.09295964617533,132.7019802967039,108.00171663479348,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-23.png,81.62893975230176,62.25607719859532,55.56101786866861,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-22.png,109.70482462855831,72.58735344074083,46.116878722759544,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-21.png,143.53428587631112,100.67999278120746,66.27142552963075,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-20.png,115.17451765159521,70.56999014595412,40.27239867470224,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-19.png,84.25191280713105,46.22187027332753,28.136687333696113,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-18.png,159.87468805799682,99.9764527354914,61.02011192555931,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-17.png,44.568437530047774,28.766692211760216,22.66269641378459,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-16.png,102.16934873221602,58.61699854405551,39.58965003144327,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-15.png,92.60501598756721,57.80721101802397,40.175210875118346,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-24.png,71.47730305122207,58.05005379134384,52.29042863883985,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-14.png,100.19357908866327,55.67707699667281,36.37162139970584,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-12.png,99.51433132584269,65.95290247191011,48.431705168539324,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-11.png,56.14322984513862,41.006438790280065,32.95920164304367,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-10.png,92.03615830148608,51.278004422430634,28.76646264433319,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-9.png,160.95277300665242,104.26569092685632,67.26880055695294,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-8.png,186.25067319320968,113.11602881281284,71.43948434189177,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-7.png,159.84720594991032,101.19855770834208,70.52953276678791,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-6.png,105.91330596491528,108.7310995790463,87.53079054161185,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-5.png,99.25579097560453,68.91567969046137,49.96768904527932,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-4.png,112.63708835904228,97.4274646747135,60.878078815098846,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-13.png,54.29431010447706,43.62086611034623,34.14360120169812,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-25.png,78.58470960631234,56.62633756557987,44.33613843939606,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-26.png,180.19379039123166,127.95545662743955,93.58731221906314,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-27.png,151.97459163918944,131.24945977006553,69.77600805902692,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-48.png,154.8006997657582,100.70650275088816,69.24819683015811,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-47.png,136.25869572377607,87.25604787606527,54.223643962577846,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-46.png,51.691425750276345,54.388667956511355,54.845725566237526,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-45.png,153.0428142313359,102.29011062712488,66.73310537224725,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-44.png,96.56077810579158,70.4637541179994,52.390479042770146,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-43.png,84.80547965873372,50.71551324651998,34.60895123484508,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-42.png,72.48743759648089,50.05675190668461,40.30984072858931,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-41.png,166.7074106445461,102.90425806866746,65.37073312849991,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-40.png,115.64455057899761,107.07815513173772,90.01770922254039,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-39.png,170.1860438014653,122.48638358186813,82.0468249925377,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-38.png,120.43954522606948,75.14818961110005,48.09356647472516,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-37.png,54.94177674560371,108.44586528986353,106.4618836177344,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-36.png,170.14317092651757,114.73707955959871,81.51058987845659,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-35.png,92.86568271579573,71.2610651667694,62.3091212359884,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-34.png,147.7881866549771,81.29441214053847,52.70689756438577,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-33.png,160.3934315698051,107.47443666161699,52.54572881334142,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-32.png,167.35434617804088,125.46689427624634,79.35782304878552,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-31.png,196.15467056832594,134.52331828673616,73.31084472212494,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-30.png,122.7090489372092,74.78147666557354,44.602303011729866,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-29.png,131.181108813894,89.87788008241445,59.297265598246696,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-28.png,94.78895052670252,136.5001772504904,123.58093006734086,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-50.png,76.6699432147476,71.98889490017615,35.49408344205992,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/4Spirited Away/4-1.png,152.7811763293928,108.11709429551968,79.84271995096485,Miyazaki,4Spirited Away
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-38.png,48.75873492630639,41.40690300729492,34.77472457942534,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-49.png,5.039101760187406,98.14166868783072,164.49325695305083,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-22.png,184.55161112504248,169.64807905463255,143.43820434787125,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-21.png,173.33154139886244,155.34366394647563,118.76458269863852,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-20.png,136.43607798042862,117.52824306353588,90.08355040635477,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-19.png,40.058858362505234,32.198997444604956,26.759238942987924,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-18.png,91.62200312825202,98.54555289608345,98.06768436954361,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-17.png,71.96015350327986,74.00103928319557,63.032516521890344,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-16.png,27.722910453695235,25.180910333306333,27.84531363909637,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-15.png,126.14065485988039,170.54801334954098,90.66661289542625,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-14.png,199.56757288122515,183.57129428627815,141.5255557253698,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-50.png,109.94972065383963,145.17801086868766,102.80365257233262,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-11.png,86.6607381989085,80.14611215763024,61.494712543317135,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-10.png,87.03089590603392,79.1763832030823,63.98960857970456,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-9.png,95.50927693578205,97.18687301201201,76.73323496839893,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-8.png,137.87314394578195,132.9503472022743,118.59936879052778,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-7.png,68.63802692655526,66.30519317955407,51.46979965440032,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-6.png,119.79039861545333,103.24807205597737,74.65501786511835,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-5.png,154.51004209847795,163.84792484513258,117.9583696118333,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-4.png,143.9115283757012,148.3010316920528,116.03962461012715,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-3.png,78.22771460028281,76.94938043354072,58.07276697149148,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-2.png,69.54118685718338,109.84304238658973,70.10963806799809,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-1.png,111.27108801232812,182.13165431291762,32.46176635442147,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-23.png,91.17503836872578,103.45046538930822,113.57689159584521,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-24.png,120.18084378843147,146.15763066285018,135.13570535793642,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-12.png,41.10221972596827,44.57420581155897,48.08789840562811,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-26.png,89.69195643431512,92.041043070873,62.00740105152159,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-25.png,112.89330087542028,107.23177816888433,87.8090514388643,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-48.png,148.19178337877383,152.38886777960724,109.51571974873289,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-47.png,66.29692493870448,92.89677482723282,51.41980433618298,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-46.png,115.79585555852323,142.5156015014679,62.205175490801274,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-45.png,101.71295047453759,133.74484244450676,122.8256252144941,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-44.png,98.9383426221545,121.22303145591611,94.40320788789636,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-43.png,90.2129625357188,90.66530245215313,70.74963556757145,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-42.png,146.98170826854758,133.33473709180336,114.07705277437505,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-41.png,114.55036064094821,96.13886865131711,60.03504879521737,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-40.png,49.62575640689653,44.50479700574711,36.67727291182973,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-39.png,66.32539411267229,69.36398868342837,60.458658087017206,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-13.png,104.50805545314917,91.9021134821128,71.2781939003912,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-36.png,81.02581138956891,87.70862510864549,94.15075936019154,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-37.png,19.429706588077966,18.245050615979036,21.827216980624218,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-28.png,156.0727182103207,145.57195391036285,78.67650925652171,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-29.png,72.05295022579524,66.19869685368009,57.890698732035816,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-30.png,89.34491997915737,54.40744268274527,42.68929395563496,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-31.png,136.6899281673366,173.4236936132202,171.70853096620516,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-27.png,52.82082374180982,47.68895452424501,42.290174591938566,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-33.png,125.660129940355,128.878124715256,107.27403463383229,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-34.png,126.67934038309272,104.24549613107605,79.52068339262449,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-35.png,77.6931866237152,72.17216209478899,57.38417312249328,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/miyazaki/5The Wind Rises/5-32.png,56.50574955125139,56.31412402832602,49.27770928171086,Miyazaki,5The Wind Rises
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-37.png,101.23520308991061,144.27017920253041,161.24691495530206,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-29.png,4.146168592078263,8.889112714469672,11.236844811364916,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-30.png,93.9902475118823,78.43086080687821,81.56710122159784,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-31.png,41.176202124292715,56.09795016992567,52.55059651452724,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-32.png,89.9540483845722,91.8999039028327,80.0268890753025,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-33.png,56.374333607850325,60.54103721690666,56.23027746623644,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-34.png,84.428303652338,81.28082850409926,56.548633499461204,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-28.png,49.54581349350609,50.31765820051963,32.7047841125087,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-35.png,11.875289780878477,13.451081657430064,11.314305452820435,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-36.png,56.500658091113586,45.376278870646026,35.63397801820138,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-38.png,50.70453251647333,47.27708296160514,41.516558297508894,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-43.png,123.94587024680084,104.63635373823158,95.29505479895447,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-40.png,82.01980013767344,69.37437446290409,64.63870230256612,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-41.png,65.77270482032837,62.16674492515284,63.86439369515128,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-42.png,42.99598512710517,44.76914480854732,42.367743903895956,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-45.png,43.97086140137827,41.908754277108656,38.31749157497259,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-44.png,38.35807603010494,53.246231899571455,65.20336004488426,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-46.png,56.925054508412224,53.15648369587936,49.120723390617584,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-47.png,111.726523036319,116.92848466460744,109.29756210356246,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-48.png,103.45607973234912,130.83705782535884,111.37470308128852,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-49.png,151.43662127794656,91.66148479803927,72.92981001701615,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-27.png,95.18054852119599,97.21593815329499,78.00251020428519,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-39.png,42.06566135807543,52.170950189853976,67.79316859537732,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-50.png,19.943733273942875,20.755327847713062,22.244286300916887,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-26.png,87.53580922711217,114.97900184187894,107.42819772699589,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-24.png,91.92843478475741,108.62414911104071,102.75412153517573,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-1.png,43.6197896788339,38.01239189573267,34.63287477068792,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-2.png,8.496245363214536,6.709953334003665,3.0579287375082527,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-3.png,81.83878503896081,28.48907017526361,21.645422100363103,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-4.png,84.43490655452325,69.72334751340253,68.82993276996302,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-5.png,71.01801633593522,51.33897805015839,43.70905109305538,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-6.png,68.08842123492076,53.465595030921676,51.29629491210458,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-7.png,58.52188624644266,54.84318301780237,48.658630439356415,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-8.png,86.2944829725478,71.45349116315482,66.81044727065931,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-9.png,105.54259797208759,83.61375798670451,66.43603733957382,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-10.png,80.48211350835842,68.91953842548168,60.1602778969277,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-11.png,135.0736338661274,113.76198860453289,93.36569240795167,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-25.png,12.042538634796124,13.92260776053944,12.909863163389364,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-13.png,19.86363739304411,14.510872216510977,12.512375084322839,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-14.png,2.1371599312409355,5.279676786129385,4.948839644145349,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-15.png,90.46121644878598,78.04295362062821,75.55132243689391,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-16.png,11.338744527313764,18.389648538152336,18.51769819302394,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-17.png,57.737641900905025,50.8027003356578,40.66783836894291,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-18.png,84.91948987943991,66.32174960335534,54.50620879139087,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-19.png,77.17246735946249,69.7748906572881,75.76009993254479,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-20.png,175.10112315100463,158.995666082008,139.6902864334539,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-21.png,93.62747903453,158.7424216396972,172.6691809345644,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-22.png,126.41261330552345,114.73893949317886,120.40492679771448,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-23.png,70.00421228550422,56.575574396652485,48.546060878998034,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/6Grave of the Fireflies/6-12.png,90.22503942025189,100.29301442968847,93.60235101425751,Takahata,6Grave of the Fireflies
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-36.png,37.31178557117642,48.704817064002604,47.6691631169743,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-35.png,42.819809095659146,62.120447935162694,67.64301804805176,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-34.png,72.93718613947169,68.94108500023488,56.36362673832597,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-33.png,56.64573126163795,37.36143947368224,36.80146152827559,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-28.png,32.272972958843006,47.75376272852339,48.9248033119181,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-31.png,55.84111201064767,52.06040745411279,54.85043801893539,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-30.png,108.62500930474914,98.33682186988239,93.76867909781153,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-29.png,63.93251104536688,62.75172000270141,60.57113678942033,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-37.png,101.91110874366423,86.50098135225834,80.16454720157225,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-32.png,52.94936457697793,51.892854993055344,55.70602553879607,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-38.png,103.69111113511669,98.29979166053593,90.9929347852405,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-44.png,35.77024352426803,45.18349836659641,43.663287704586224,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-40.png,75.82947218648458,56.67207027242824,52.71913063830764,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-41.png,87.58983135970043,90.87749446565647,84.09260049035795,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-42.png,68.23178986154534,63.174423105553075,53.276924966502904,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-43.png,21.11455485210202,28.050571482469294,33.159160980672716,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-45.png,18.82093231076232,35.432841992994526,39.46394938861058,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-46.png,30.388676400751347,50.027560775429436,50.41932266508593,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-47.png,19.797099261111498,42.002491596440215,55.29276220984523,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-48.png,69.78072131719115,84.1364960602497,90.28182671207695,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-49.png,79.57469991835953,84.93803343361115,62.06690100712191,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-50.png,33.51412818259547,46.01008458457845,49.95441721734075,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-27.png,92.96639980646121,88.77516227482506,78.70507183266339,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-39.png,62.597082824012595,58.37327015338937,56.68461111943709,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-26.png,73.16303366018099,62.53127600310601,55.48699200702744,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-25.png,80.07615248824668,83.05481231381965,79.08762214753176,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-24.png,68.6998485623072,71.90292357538489,65.56962959580355,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-2.png,46.04234332048266,69.04703833338628,79.89233500460644,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-3.png,42.63457898702991,62.20618529435539,74.57583455917,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-4.png,65.89535346747569,63.13021160629243,59.15043763207467,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-5.png,87.38875875239178,87.10991764899235,65.99311676307417,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-6.png,80.06562525492996,87.36644464402187,72.93129342190399,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-7.png,123.97979407592378,131.6259459286873,120.14722164367257,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-8.png,78.36981726248723,73.0469384007292,75.43789170743374,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-9.png,61.404177105650014,58.441963839126174,50.18614121996743,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-10.png,82.34228950988145,75.24870314672395,65.71259008604636,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-11.png,88.31304705400768,91.21474006476478,65.84592602976078,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-12.png,63.2744804228078,100.68626879559326,95.18616681554265,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-1.png,42.40209591065355,48.97083955253764,41.668639304526884,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-14.png,67.76897814654616,79.10967400632735,65.7798008591064,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-15.png,84.67943072516071,82.66700780963026,85.76193383173123,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-16.png,69.3641391246092,76.71506178353431,81.11214381420277,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-17.png,36.18702555076367,58.88139591876503,72.95957849625833,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-18.png,71.95939423046376,66.13184008850335,61.515173203817454,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-19.png,87.41925535479403,96.20288437616561,72.95156262144208,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-20.png,81.59877586720262,88.0761076373381,77.4342857674557,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-21.png,81.93988932887801,80.95088175412758,76.16605149515804,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-22.png,100.21670002132815,86.54008207253209,71.217034806512,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-23.png,68.79723686666088,76.92132307665946,61.42393486309307,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/7Pom Poko/7-13.png,35.506345466726216,50.6680195771922,63.11350416852762,Takahata,7Pom Poko
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-37.png,91.2287324227264,94.86063636808285,89.79324267249889,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-35.png,109.97227443592246,111.9353092782585,124.4632620834998,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-34.png,183.19024134001262,168.8729141419433,154.3049045757374,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-33.png,72.34535355914872,74.21612849241212,50.156304507176074,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-28.png,153.63414748996513,136.60900362011225,113.13964329694195,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-31.png,64.69801707948363,130.90246147609645,171.13165408395528,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-30.png,200.07872829583317,162.30409131983754,138.5122622118005,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-29.png,192.44350478407256,186.58969384512318,169.96046662601208,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-39.png,79.08490383252378,87.02305155881706,97.91127347378963,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-32.png,74.26030633255661,133.49926798676384,115.38182766439262,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-38.png,71.6626434362868,72.54355159411826,43.2824173881426,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-45.png,28.602355096717623,57.7943119376763,82.29985051708522,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-42.png,33.638587796749924,48.518141397830995,54.48793209823525,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-43.png,54.13779005925644,56.20121265180372,65.12653866176609,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-44.png,108.26352081531034,115.02875363671923,114.82184786736218,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-46.png,19.13473718848058,30.64689364160938,35.641674618269306,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-47.png,108.4923018262478,137.34090101746204,112.19058089838983,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-48.png,95.76405252344797,121.45847682000893,118.88370343903529,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-49.png,119.89485061095502,114.58751363460851,112.7956472457646,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-50.png,108.83076802143815,112.02243001339883,119.29767753461367,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-36.png,136.06361018311748,134.73955587315766,116.22124376953997,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-27.png,74.16325741908707,96.09502246281616,87.57769727024457,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-41.png,33.88608628852166,45.31206074140241,53.45664314426083,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-26.png,198.45316367402208,191.00200822436025,167.3750781598928,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-40.png,66.90217383931176,70.59724797205558,75.50547788656078,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-24.png,80.42873713534755,85.20322571777326,80.35094389874433,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-1.png,105.87048428754314,132.93704855311373,150.6474485178667,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-2.png,141.8632407252951,100.09762282717291,96.57462507466221,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-3.png,205.4409432469069,199.93045781858928,192.10772032399404,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-4.png,175.3384221852288,176.12146036657685,171.17676209688622,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-5.png,154.4519729150013,144.78575903994903,126.73585405506894,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-6.png,166.6186941513908,141.26788058405634,125.37464254565779,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-8.png,168.04456286870536,156.31059912257484,138.76602855338743,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-9.png,156.62751013673824,144.23229195236493,142.15244531489418,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-10.png,171.28059490844126,156.26345690040196,148.75684287628405,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-11.png,154.01028035433924,153.45411275306222,147.5604709803304,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-12.png,180.45500160736003,179.28537059214142,167.58660130426807,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-7.png,107.10950472967556,95.03698387272249,89.18315682939958,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-14.png,195.39258274465087,173.15783379695517,174.60063202882546,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-13.png,191.76072737165336,180.7105986492628,164.3155531849643,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-22.png,47.70463650044573,77.13293083006434,76.7378272356958,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-21.png,41.11946887331582,64.89992784691407,74.89211167912477,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-20.png,33.553318531350286,54.52977817002399,68.54802891523629,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-19.png,115.35303755754803,112.1528204176495,109.06450289802693,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-23.png,82.09249031082369,89.25661265464986,85.78075832198259,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-17.png,169.19282117851944,175.79288886889594,157.21574879444367,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-16.png,163.1042458240286,167.32464993300582,158.12842090218848,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-15.png,83.46831418769001,79.60358142487244,77.84062023842178,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-18.png,50.078432235659236,53.76964661994251,60.106249498975046,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/8Only Yesterday/8-25.png,171.14346333184457,158.92614309959802,151.64448307280037,Takahata,8Only Yesterday
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-37.png,242.8966271344766,237.88043131500032,232.73388787845985,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-28.png,225.07170867966101,229.74131430394985,234.2257989071046,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-29.png,242.16535871889766,239.3764661807364,237.63495882749237,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-30.png,238.1520965664219,236.02142414002577,233.60210188000212,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-31.png,240.26543192645525,238.07304693315467,235.24070097685552,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-32.png,228.60106769430368,224.21214970854936,216.51776818830777,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-33.png,240.2542872341112,239.66706000514733,237.0020101842645,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-34.png,216.63243342754186,215.36774565343603,221.8858057909774,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-35.png,241.59340057943442,233.30602324542727,225.20706667865315,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-36.png,244.09867574451735,237.51965987452837,234.8555624537152,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-50.png,179.38182662636916,201.52733894214404,186.56887249074754,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-40.png,225.66254240912764,219.18250446538704,210.96484848744498,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-41.png,175.53309270791635,181.22046846389568,193.81775868331368,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-42.png,239.40390702544147,235.16102792788791,227.3542010710536,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-43.png,244.60629137034618,242.31099871451312,238.83702016124414,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-44.png,226.01642332177488,220.46955259607418,219.55047199885857,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-45.png,234.65010705776376,232.85735033561772,232.35069205774758,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-46.png,217.53100974209482,215.3480496587051,161.18603545643904,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-47.png,232.1779012192979,209.0368444897053,179.52011447648465,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-48.png,242.84404887108764,234.77410218977053,226.62826504620605,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-49.png,138.03768638128284,155.17339364242278,142.0541894275146,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-27.png,241.85150354598244,228.83067427927966,215.94925991204258,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-39.png,243.76150003237015,230.85880431889626,219.78610889315695,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-26.png,240.15125824028584,233.88076677087986,226.97551335417597,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-38.png,243.7027516103299,235.63645853947972,227.24032297077164,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-24.png,222.18003651756163,211.59003203696705,205.63491170508811,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-1.png,245.05596061631786,242.1461611537075,239.58926096715777,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-2.png,233.1189528712285,226.4425044653813,225.74979132808758,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-3.png,238.11904606576687,233.7833205605862,234.50162270045746,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-4.png,219.15228116661513,218.0637196378878,192.66589365673778,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-5.png,236.39962045591926,232.5666969799699,227.82615446152633,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-6.png,216.9671392585976,212.3306597588209,213.33046788744974,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-25.png,240.2289292425985,235.5164326496141,229.65175483241066,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-8.png,233.04647294641575,235.28690814184503,232.66238901904097,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-9.png,237.87525770791967,233.35073029949186,231.17005870736182,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-10.png,238.55639715818646,234.6868848129316,230.59438236506682,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-11.png,242.26503447487906,238.814043387023,234.79943754246457,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-7.png,240.27329125470987,229.0665475658776,220.5637131411248,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-13.png,173.68467780487535,186.70303524933516,200.8376055743168,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-12.png,224.9599529556651,230.56824593216334,234.21263531593476,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-22.png,238.53411499761003,226.1956882757844,208.3966694315064,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-21.png,246.27276396804766,235.66289008761717,227.32565446038782,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-20.png,240.30905290458963,234.65782769351844,228.71669498182612,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-19.png,241.7271235161749,235.16593655599902,227.9569507011203,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-23.png,238.42040890002525,217.43979369498308,199.56875323733925,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-17.png,231.5823080974829,230.9098337178005,222.5192556009971,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-16.png,236.58611498399256,224.30136409261397,209.7687572121118,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-15.png,242.29024871840699,232.20797282840138,220.90237006511026,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-14.png,240.22125383188524,237.33675819734222,234.91797625601131,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/9My Neighbors the Yamadas/9-18.png,239.66151741402768,228.47559736935776,224.30796443684713,Takahata,9My Neighbors the Yamadas
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-27.png,213.3050718326634,178.54826447818968,194.40275904421617,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-28.png,189.69187658180735,190.4304522108084,183.92391320529998,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-29.png,164.36111990887989,165.7663619912597,150.25755740730003,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-30.png,181.08995978552278,178.9967519362526,167.99543491212393,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-31.png,187.51622612008123,178.28739505915033,160.24842881337418,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-32.png,190.2838113941162,149.0876079925172,136.7741619579514,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-33.png,148.02704786332072,143.8922181101151,146.50702577284244,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-34.png,193.37331214779945,185.4785550123905,177.7577692728105,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-35.png,176.34407630872767,168.37435448883392,161.74482234834156,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-36.png,194.30490446587052,166.98082735133258,155.8572237144943,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-48.png,205.80796671227156,204.92890396903874,204.54194714171123,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-38.png,129.22353300968015,113.32874127278166,107.16869797333717,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-39.png,146.07873742255134,143.88651670726978,145.0567076193391,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-40.png,134.7439624333321,128.21691318923993,122.76282653741463,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-41.png,158.60752363064537,140.79913671811215,130.71631705663972,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-42.png,158.50361694208723,164.30801585529255,162.30127102873305,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-43.png,193.33462995516243,198.14859620853397,190.14005375154468,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-44.png,191.75812829443856,200.22548729636998,166.37510060276196,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-45.png,157.5618613164452,174.01216485253474,158.1647079937487,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-46.png,196.02256644568703,196.86109423477433,197.6586961518103,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-47.png,191.29700386767146,193.36227040473284,193.73030339038672,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-26.png,190.05076001191009,189.23879484889088,182.0082328420426,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-37.png,162.7549393330356,150.12616272145303,151.5207629894298,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-25.png,176.3015757674024,175.3371513020079,168.82716427690337,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-13.png,203.71046692546201,202.09406891337946,198.75968082897853,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-23.png,148.84226171241542,149.6913298374558,154.91683659483996,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-49.png,199.4002253525303,199.6284222172391,197.94667818139027,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-1.png,83.34517510006434,96.02771580799379,102.8063992170831,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-2.png,162.59116160488313,155.94759044216167,152.64162795891022,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-3.png,123.93676120291796,119.29580244156618,110.28774304004764,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-4.png,147.75015950998534,148.8516197311626,137.22004179903522,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-5.png,200.00832541268497,190.94324778042252,181.42719741327355,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-6.png,211.17536684768945,202.4630068007395,187.66731730066851,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-7.png,176.37018955306735,174.07223668457885,166.56772284394253,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-8.png,190.56513101086796,193.1967291945809,186.19480050617835,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-9.png,132.91930513154364,140.8936769287144,136.08328219201883,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-24.png,179.26014555166728,182.30218765954316,167.32921608247085,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-10.png,155.04484019527806,156.8414953225166,150.191321784983,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-12.png,109.6639981792752,96.62620847075851,86.98088387710256,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-14.png,96.04892084776617,107.40435661547642,107.26188713908904,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-15.png,172.51301994938217,138.90428390650587,132.511141134435,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-16.png,195.58226752791052,188.11553199056638,177.69925273699428,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-17.png,179.44081025755546,154.91537888938515,130.6498075777877,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-18.png,117.71572484290728,110.88072910244915,105.9479885165582,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-19.png,181.2045931650675,181.3928775298536,172.2059683775505,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-20.png,188.48652548363933,185.97214357991834,170.78906888297269,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-21.png,181.41164396307875,174.1468650439184,159.87829313681704,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-22.png,164.15895083708344,173.41383185591582,170.369475861079,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-11.png,104.79347240625636,119.27942773752521,92.48538703057694,Takahata,10The Tale of the Princess Kaguya
+/content/drive/MyDrive/Colab Notebooks/dh project/original_data/takahata/10The Tale of the Princess Kaguya/10-50.png,142.13726972835954,144.62368807681705,145.67682305581215,Takahata,10The Tale of the Princess Kaguya
